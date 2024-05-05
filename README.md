@@ -12,7 +12,7 @@ To get started, simply clone or download this repository to your local machine:
 
 ```bash
 git clone https://github.com/arsjadoun25/Zerodha-LandingUI
-
+```
 ## Deployment
 
 The Zarodha Landing UI Clone project has been deployed and is accessible online. You can view the deployed version at https://arsjadoun25.github.io/Zerodha-LandingUI/.
