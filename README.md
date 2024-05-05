@@ -11,4 +11,4 @@ The primary purpose of this repository is to provide a learning resource for pra
 To get started, simply clone or download this repository to your local machine:
 
 ```bash
-git clone https://github.com/arsjadoun25/[Zerodha-LandingUI](https://github.com/arsjadoun25/Zerodha-LandingUI.git)
+git clone https://github.com/arsjadoun25/Zerodha-LandingUI
